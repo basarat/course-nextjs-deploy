@@ -1,3 +1,3 @@
 export default function Page() {
-  return <>Hello Fam!</>;
+  return <>We Love Continuous Deployment 🚀</>;
 }
