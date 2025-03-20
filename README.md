@@ -1,22 +1,10 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGD_0i6L48hucTiiyhb5QzQ?style=social)](https://www.youtube.com/channel/UCGD_0i6L48hucTiiyhb5QzQ)
 
-# Code Demo
+# NextJS Course
 
-> `demo-*` are the repos I use for lessons 🌹.
+Part of the [NextJS Course on Boolean Art][course].
 
-You hopefully came here after watching the lesson ❤️. That said, feel free to play with this code even without watching the lesson 👏🏻 .
+[![Course Image](https://www.booleanart.com/course-content/nextjs/index.png)][course]
 
-# More
-Setup by
+[course]: https://www.booleanart.com/course/nextjs
 
-```
-npm i
-```
-
-Now you can run this demo by executing:
-
-```sh
-npm run dev
-```
-
-And then visit http://localhost:3000

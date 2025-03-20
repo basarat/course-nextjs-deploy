@@ -1,4 +1,3 @@
-export default function Index() {
-  return (<>
-    </>);
+export default function Page() {
+  return <>Hello Fam!</>;
 }
