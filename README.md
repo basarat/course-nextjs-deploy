@@ -8,3 +8,4 @@ Part of the [NextJS Course on Boolean Art][course].
 
 [course]: https://www.booleanart.com/course/nextjs
 
+test
